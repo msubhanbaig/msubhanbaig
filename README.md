@@ -10,7 +10,7 @@
 
 # Hi, I'm Subhan 👋
 
-**Computer Science student building across AI, software, cloud, and hardware.**
+**Computer Science student building across AI, cloud, and hardware.**
 
 </div>
 
@@ -18,12 +18,12 @@
 
 ## 🧭 About Me
 
-I'm a CS student who likes to experiment across the whole stack: from **AI / ML** models, to **software** and **web** projects, to the **cloud**, and all the way down to **hardware with Arduino**. I learn by building, breaking, and rebuilding.
+I'm a CS student who likes to experiment across the whole stack: from **AI / ML** models, to **web** projects, to the **cloud**, and all the way down to **hardware with Arduino**. I learn by building, breaking, and rebuilding.
 
-**Focus areas:** Software Development · AI / ML · Cloud · Cybersecurity
+**Focus areas:** · AI / ML · Cloud · Cybersecurity
 
 ```
-AI / ML  →  Software  →  Web  →  Cloud  →  Hardware / Arduino
+AI / ML  →  Web  →  Cloud  →  Hardware / Arduino
 ```
 
 ---
@@ -42,7 +42,7 @@ Exploring machine learning and building with modern AI tools.
 
 ---
 
-## 💻 Software & Web Development
+## 💻 Web Development
 
 <img src="assets/robot-web.png" alt="Robot coding on a laptop" width="260" align="right" />
 
