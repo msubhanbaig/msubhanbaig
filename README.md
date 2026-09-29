@@ -100,8 +100,8 @@ Taking code off the screen and into the real world.
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=msubhanbaig&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msubhanbaig&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="170" />
 
 </div>
 
