@@ -49,7 +49,7 @@ Exploring machine learning and building with modern AI tools.
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Python, C++, JavaScript" height="40" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+<img src="assets/sql.svg" alt="SQL" height="40" />
 
 **Web**
 
