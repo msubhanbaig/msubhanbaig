@@ -47,8 +47,7 @@ Exploring machine learning and building with modern AI tools.
 <img src="assets/robot-web.png" alt="Robot coding on a laptop" width="260" align="right" />
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Python, C++, JavaScript" height="40" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js&theme=dark" alt="Python, C, C++, JavaScript" height="40" />
 <img src="assets/sql.svg" alt="SQL" height="40" />
 
 **Web**
