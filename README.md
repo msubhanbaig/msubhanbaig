@@ -12,8 +12,6 @@
 
 **Computer Science student building across AI, software, cloud, and hardware.**
 
-<img src="https://img.shields.io/badge/Peshawar%2C%20Pakistan-181717?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
 </div>
 
 ---
