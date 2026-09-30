@@ -111,7 +111,7 @@ Taking code off the screen and into the real world.
 
 - LinkedIn: https://www.linkedin.com/in/subhan-baig-b3023a331
 - Email: subhanbaig123456@gmail.com
-- Portfolio: https://subhan-baig.github.io/
+- Portfolio: https://msubhanbaig.github.io/
 
 <div align="center">
 
